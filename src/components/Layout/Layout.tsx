@@ -1,5 +1,5 @@
 import React from 'react'
-import Aux from '../../hoc/Aux'
+import Aux from '../../hoc/RXContainer'
 const Layout =(props:any)=>(
 <Aux>
 <div>This is toolbar</div>

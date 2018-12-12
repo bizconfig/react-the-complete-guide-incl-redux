@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import  Burger from '../../components/Burger/Burger'
-import Aux from '../../hoc/Aux'
+import Aux from '../../hoc/RXContainer'
 
 class BurgerBuilder extends Component {
 public state={
